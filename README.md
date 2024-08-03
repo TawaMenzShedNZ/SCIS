@@ -1,13 +1,9 @@
 SCIS Shed Check-In System
 ===============
 
-|img_travis| |img_sr|
-
 This is a management utility to track User signins / signouts and manage machine access.
 
 (c) Tawa Menzshed 2024
-
-.. contents:: **Table of Contents**
 
 Overview
 -------------
@@ -22,9 +18,11 @@ Features
 * Reporting on Access Dates / Times / Devices
 
 Upcoming Changes
-^^^^^^^^^^^^
+
+-------------
 Enhancements coming for higher amperage Devices and better access management rules (sometime 2025).
 
 Questions / Queries
-^^^^^^^^^^^^^^^^^
+
+-------------
 Contact scistechnician49@gmail.com
