@@ -18,11 +18,9 @@ Features
 * Reporting on Access Dates / Times / Devices
 
 Upcoming Changes
-
 -------------
 Enhancements coming for higher amperage Devices and better access management rules (sometime 2025).
 
 Questions / Queries
-
 -------------
 Contact scistechnician49@gmail.com
